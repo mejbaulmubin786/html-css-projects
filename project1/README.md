@@ -1,0 +1,1 @@
+A collection of fifteen vanilla JavaScript projects built following the 'Build 15 JavaScript Projects - Vanilla JavaScript Course' by freeCodeCamp.org. These projects showcase fundamental JavaScript concepts and practical application.
