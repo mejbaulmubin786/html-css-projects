@@ -1,0 +1,100 @@
+ <!-- Main Content -->
+  <!-- <main>
+    <!-- Hero Section -->
+    <section id="hero">
+      <div id="hero-content">
+        <h2>Building stellar websites for early startups</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+        <a href="#about-section">View our work</a>
+        <a href="#pricing-section">View Pricing</a>
+      </div>
+      <div class="hero-img"></div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about-section">
+      <h2>About Us</h2>
+      <p>
+        We are a team of dedicated professionals who specialize in creating modern and effective digital solutions.
+      </p>
+      <a href="#contact-section">Learn More</a>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features-section">
+      <h2>Features</h2>
+      <div id="features-gallery">
+        <div class="features-item">
+          <h4>Client-First Approach</h4>
+          <p>We prioritize your needs to deliver tailored solutions.</p>
+        </div>
+        <div class="features-item">
+          <h4>Customizable Templates</h4>
+          <p>Flexible designs to match your brand identity.</p>
+        </div>
+        <div class="features-item">
+          <h4>24/7 Support</h4>
+          <p>Our team is available around the clock for assistance.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing-section">
+      <h2>Pricing</h2>
+      <p>Choose a plan that fits your needs and budget.</p>
+      <ul id="pricing-plans">
+        <li>
+          <h3>Basic Plan</h3>
+          <p>Perfect for small businesses and startups.</p>
+        </li>
+        <li>
+          <h3>Standard Plan</h3>
+          <p>For growing businesses with advanced requirements.</p>
+        </li>
+        <li>
+          <h3>Premium Plan</h3>
+          <p>Comprehensive solutions for large enterprises.</p>
+        </li>
+      </ul>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog-section">
+      <h2>Our Blog</h2>
+      <article class="blog-post">
+        <h3>Understanding the Basics of Web Development</h3>
+        <p>A quick overview of the foundational concepts in web development.</p>
+      </article>
+      <article class="blog-post">
+        <h3>Top 10 Design Tips for Beginners</h3>
+        <p>Tips to help new designers create professional-level work.</p>
+      </article>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq-section">
+      <h2>Frequently Asked Questions</h2>
+      <ul>
+        <li><strong>What services do you offer?</strong> We provide web design, development, and SEO solutions.</li>
+        <li><strong>How can I get started?</strong> Contact us to discuss your project and get a quote.</li>
+      </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact-section">
+      <h2>Contact Us</h2>
+      <form id="contact-form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+
+        <button type="submit">Send Message</button>
+      </form>
+    </section>
+  </main> -->
