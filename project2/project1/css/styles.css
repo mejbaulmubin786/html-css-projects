@@ -5,79 +5,9 @@ header {
   padding: 1.6rem 0;
 }
 
-.container {
-  max-width: 128.0rem;
-}
 
-.d-flex {
-  display: flex;
-}
 
-.space-between {
-  justify-content: space-between;
-}
 
-.align-items-center {
-  align-items: center;
-}
-
-.gap {
-  gap: 3.2rem;
-}
-
-a {
-  color: var(--color-text-muted);
-}
-
-li a:hover {
-  color: var(--color-white);
-}
-
-.global-btn {
-  padding: 1.6rem 4.8rem;
-  transition: 0.3s;
-}
-
-.btn {
-  border-radius: 41px;
-  border: 2px solid var(--color-text-secondary);
-  margin-left: 1.6rem;
-  background-color: transparent;
-  display: inline-block;
-}
-
-.btn:hover {
-  border: 2px solid var(--color-accent-secondary);
-  background-color: var(--color-accent-secondary);
-}
-
-.btn:hover a {
-  color: var(--color-white);
-}
-
-.btn-second {
-  padding: 1.6rem 4.8rem;
-  border-radius: 41px;
-  margin-left: 1.6rem;
-}
-
-.btn:hover {
-  padding: 1.6rem 4.8rem;
-  border-radius: 41px;
-  border: 2px solid transparent;
-  margin-left: 1.6rem;
-  background-color: var(--color-accent-secondary);
-  transition: 0.3s;
-
-}
-
-section {
-  padding: 12.6rem 0;
-}
-
-span {
-  display: block;
-}
 
 /* ========================================
                 Hero Section 
@@ -86,10 +16,27 @@ span {
 #hero h1 {
   font-size: 5.4rem;
   font-weight: 600;
+  color: var(--color-text-primary);
 }
 
 #hero p {
   font-size: 1.6rem;
   font-weight: 400;
   margin-bottom: 4.8rem;
+  color: var(--color-text-muted);
+}
+
+/* ========================================
+                How to work Section 
+=========================================== */
+#how-we-work {
+  background-color: var(--color-text-muted);
+}
+
+#how-we-work h2 {}
+
+#how-we-work a {
+  color: var(--color-accent-primary);
+  display: inline-block;
+  margin-top: 1.6rem;
 }
