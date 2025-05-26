@@ -70,8 +70,8 @@ h6 {
   margin-bottom: 10px;
 }
 
-h1 {
-  color: var(--color-text-primary);
+.text-primary {
+  color: var(--color-text-primary) !important;
 }
 
 h2 {
@@ -115,15 +115,17 @@ a {
   font-size: 16px;
 }
 
+a:hover {
+  color: var(--color-white);
+}
+
 .gap {
   gap: 3.2rem;
 }
 
 
 
-a:hover {
-  color: var(--color-white);
-}
+
 
 .global-btn {
   padding: 1.6rem 4.8rem;

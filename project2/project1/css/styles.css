@@ -40,3 +40,24 @@ header {
   display: inline-block;
   margin-top: 1.6rem;
 }
+
+/* ========================================
+              Footer Section 
+=========================================== */
+
+
+footer .contact-info {
+  width: 51.7rem;
+  padding: 1.7rem 13.7rem 1.6rem 3.7rem;
+  background-color: var(--color-accent-secondary);
+  margin-top: 8.6rem;
+}
+
+.social-icons {
+  margin-top: 2.8rem;
+
+}
+
+.social-icons i {
+  margin-right: 2.6rem;
+}
