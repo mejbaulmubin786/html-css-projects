@@ -61,3 +61,17 @@ footer .contact-info {
 .social-icons i {
   margin-right: 2.6rem;
 }
+
+footer .container-footer {
+  padding: 3.2rem 0;
+
+}
+
+.footer-nav {
+  background-color: var(--color-white);
+}
+
+.footer-nav a,
+.footer-nav p {
+  color: var(--color-black) !important;
+}
