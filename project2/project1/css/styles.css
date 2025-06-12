@@ -75,3 +75,12 @@ footer .container-footer {
 .footer-nav p {
   color: var(--color-black) !important;
 }
+/* ========================================
+              projects Section 
+=========================================== */
+
+#projects{
+  
+  background-color: var(--color-white);
+
+}

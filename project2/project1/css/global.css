@@ -74,6 +74,10 @@ h6 {
   color: var(--color-text-primary) !important;
 }
 
+.color-black {
+  color: var(--color-black) !important;
+}
+
 h2 {
   font-size: 4.8rem;
 }
