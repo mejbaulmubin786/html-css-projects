@@ -84,3 +84,54 @@ footer .container-footer {
   background-color: var(--color-white);
 
 }
+
+.project{
+  position: relative;
+  overflow: hidden;
+}
+
+.project-grid{
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 3.2rem;
+}
+
+.first{
+  grid-row: 1/span 2;
+}
+.overlay{
+  height: 100%;
+  background-color: #1C1E536B;
+  position: absolute;
+  top: 0;
+  opacity: 0;
+  transition: 0.3s;
+  
+}
+
+
+
+.overlay.left{
+  width: 40%;
+  transform: translateX(-100%);
+}
+.overlay.left:hover{
+  
+}
+
+.overlay.right-top{
+  width: 100%;
+  transform: translateY(-100%);
+}
+
+.overlay.right-bottom{
+  width: 100%;
+  transform: translateY(-100%);
+}
+
+.project:hover .overlay.left,
+.project:hover .overlay.right-top,
+.project:hover .overlay.right-bottom {
+  transform: translate(0, 0);
+  opacity: 1;
+}
