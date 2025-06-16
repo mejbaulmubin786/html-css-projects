@@ -5,10 +5,6 @@ header {
   padding: 1.6rem 0;
 }
 
-
-
-
-
 /* ========================================
                 Hero Section 
 =========================================== */
@@ -109,22 +105,20 @@ footer .container-footer {
   
 }
 
-
-
 .overlay.left{
-  width: 40%;
+  width: 50%;
   transform: translateX(-100%);
-}
-.overlay.left:hover{
-  
+  padding: 31.2rem 3.5rem 7.6rem 4.8rem;
 }
 
 .overlay.right-top{
+  padding: 12.9rem 3.5rem 7.6rem 4.8rem;
   width: 100%;
   transform: translateY(-100%);
 }
 
 .overlay.right-bottom{
+  padding: 12.9rem 3.5rem 7.6rem 4.8rem;
   width: 100%;
   transform: translateY(-100%);
 }
